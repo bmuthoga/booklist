@@ -1,6 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Booklist App
+This is a simple application for managing your booklist, built with React's new Context API and Hooks.
+
+A deployed version of the app and online code editor to play around with the codebase can be found [here]()
+
+Below is a preview of how it looks:
+
+<img src="https://i.ibb.co/dD0ByxN/booklist-app.gif" width="300" height="200" alt="booklist-app" />
 
 ## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
